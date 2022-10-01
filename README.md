@@ -1,4 +1,4 @@
-# poke_memories
+# poke_memores
 
 ## Project setup
 ```
